@@ -1,5 +1,8 @@
 # Data-Analysis-Intractive-Dashboard-Excel
 Excel Sales Dashboard using Pivot Tables, Slicers, and Maps to analyze sales performance, top salesperson, and customer insights.
+# Dashboard
+<img width="1232" height="588" alt="excel intractive dashboard" src="https://github.com/user-attachments/assets/d8063b2e-decd-45c6-8137-10741aeb9b64" />
+
 📌 About Project
 
 This project is a Sales Performance Dashboard developed in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, Timelines, and Maps. The main purpose of this project is to demonstrate how raw business data can be converted into valuable insights for better decision-making.
