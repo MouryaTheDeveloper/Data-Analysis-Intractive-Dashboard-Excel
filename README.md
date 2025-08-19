@@ -10,7 +10,7 @@ The dashboard provides a consolidated view of business performance through key m
 
 This project can be useful for managers, analysts, and students who want to practice data visualization, reporting, and dashboard building in Excel. It represents a practical approach to understanding how organizations track performance and take strategic decisions.
 
-##🎯 Objectives (Key Questions Answered)
+#🎯 Objectives (Key Questions Answered)
 
 What is the total sales revenue and units sold?
 
