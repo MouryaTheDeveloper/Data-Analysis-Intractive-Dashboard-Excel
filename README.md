@@ -3,7 +3,7 @@ Excel Sales Dashboard using Pivot Tables, Slicers, and Maps to analyze sales per
 # Dashboard
 <img width="1232" height="588" alt="excel intractive dashboard" src="https://github.com/user-attachments/assets/d8063b2e-decd-45c6-8137-10741aeb9b64" />
 
-📌 About Project
+# About Project
 
 This project is a Sales Performance Dashboard developed in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, Timelines, and Maps. The main purpose of this project is to demonstrate how raw business data can be converted into valuable insights for better decision-making.
 
@@ -13,7 +13,7 @@ The dashboard provides a consolidated view of business performance through key m
 
 This project can be useful for managers, analysts, and students who want to practice data visualization, reporting, and dashboard building in Excel. It represents a practical approach to understanding how organizations track performance and take strategic decisions.
 
-**🎯 Objectives (Key Questions Answered)**
+# **🎯 Objectives (Key Questions Answered)**
 
 What is the total sales revenue and units sold?
 
